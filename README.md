@@ -1,4 +1,4 @@
-CA Avengers Interview Tasks
+# CA Avengers Interview Tasks
 
 This is a repo with minimal React project.
 After cloning the repo, make sure to run 'npm install' to install all the depencendies and run npm start to run your project
@@ -13,7 +13,7 @@ Task 2:
 - Display newly created component "Body" below the "Header" on the same page.
 
 Task 3:
-- Now we are going to use Ant Design module for our UI components (refer to this page for the help https://ant.design/components/overview/).
+- Now we are going to use Ant Design module for our UI components (refer to [this](https://ant.design/components/overview/) page for help)
 - Add a button (anywhere on "Body" component, style it anyway you like) with the title "ON"
 - Now add a property to the button OnClick that will change the title from "ON" to "OFF" and back to "ON" on every click
 - Now, assuming that your "Body" background color is light colored, on every button click, the background color should change to black (simulating ligts are off), and back you your previous color (lights on)
