@@ -1,4 +1,4 @@
-##CA Avengers Interview Tasks
+CA Avengers Interview Tasks
 
 This is a repo with minimal React project.
 After cloning the repo, make sure to run 'npm install' to install all the depencendies and run npm start to run your project
